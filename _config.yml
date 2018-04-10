@@ -1,0 +1,65 @@
+# Site settings
+title: Przychodnia weterynaryjna | ul. Wysockiego 34, Wałbrzych
+description: "Henryk Frankiewicz"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://lecznica.walbrzych.pl" # the name of your domain
+logo_url: svg/min/logo.svg
+
+# Hero
+hero: 
+    hero_img: przychodnia.jpg
+    hero_title: Przychodnia Weterynaryjna <br> Henryk Frankiewicz
+    hero_description: ul. Wysockiego 34, Wałbrzych
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    phone: 74 842 61 66
+    email: medvet1@interia.pl
+    address: ul. Wysockiego 34, Wałbrzych
+
+# Opening hours
+monday_friday: 09:00 – 18:00
+saturday: 09:00 – 14:00
+sunday: 10:00 – 12:00
+bank_holiday: nieczynne
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: Piotra Wysockiego 34, 58-304 Wałbrzych, Polska
+    address_details: svg/min/logo.svg
+
+# Social settings
+facebook: http://facebook.com
+#twitter: http://twitter.com
+#instagram: http://instagram.com
+#youtube: http://youtube.com
+#skype: skype:obaez_design?userinfo
+#feed: yes
+
+# Footer
+copyright: © 2017 lecznica.walbrzych.pl - Wszystkie prawa zastrzeżone
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics: UA-38395501-1
+google_verification:

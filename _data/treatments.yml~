@@ -1,0 +1,38 @@
+- icon: icon-user-md
+  title: Czipowanie
+
+- icon: icon-diamond
+  title: Wydawanie paszportów
+
+- icon: icon-flask
+  title: EKS, USG, RTG
+
+- icon: icon-globe
+  title: Kardiologia
+
+- icon: icon-ambulance
+  title: Szpital
+
+- icon: icon-bed
+  title: Rehabilitacja - TENS
+  
+- icon: icon-user-md
+  title: Czipowanie
+  
+- icon: icon-diamond
+  title: Laseroterapia
+  
+- icon: icon-globe
+  title: Magnetoterapia
+  
+- icon: icon-ambulance
+  title: Chirurgia
+  description: sterylizacja, kastracja, cesarskie cięcie, chirurgia twarda
+  
+- icon: icon-hospital-o
+  title: Laboratorium
+  description: badanie moczu badanie ogólne, badanie osadu
+  
+- icon: icon-hospital-o
+  title: Laboratorium
+  description: badanie kału tasiemce, glisty, kokcydia, Giardia- test Elisa

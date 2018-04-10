@@ -1,0 +1,16 @@
+/* FOOTER
+-------------------------------------------------*/
+$a-tags: 'a, a:active, a:hover, a:visited';
+.main-footer {
+    @extend %space;
+    color: $white;
+    background: lighten($colorPrimary, 2%);
+    text-align: center;
+    small {
+        display: block;
+    }
+#{$a-tags} {
+  color: $white;
+  text-decoration: none;
+}    
+}

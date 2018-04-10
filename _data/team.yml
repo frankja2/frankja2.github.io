@@ -1,0 +1,12 @@
+- name: Henryk Frankiewicz
+  image: man.jpg
+  description: dsd
+
+- name: Jolanta Piwowarczyk 
+  image: woman.jpg
+
+- name: Agnieszka Wolak
+  image: woman.jpg
+
+- name: Edward Stanko
+  image: man.jpg
